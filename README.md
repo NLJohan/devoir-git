@@ -2,7 +2,7 @@
 
 
 01 Nom: SIMON
-01 github:
+01 github: NLJohan
 02 Nom: Roudeix Roméo
 02 github:
 03 Nom: DALBIES
