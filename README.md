@@ -4,7 +4,7 @@
 01 Nom: SIMON
 01 github:
 02 Nom: Roudeix Roméo
-02 github:
+02 github:romeoroudeix
 03 Nom: DALBIES
 03 github:
 04 Nom: Tala-Ighil
